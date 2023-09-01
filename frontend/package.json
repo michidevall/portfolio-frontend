@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://https://michiportfolio-58c46c5c8c2c.herokuapp.com/",
+ 
   "engines":{ "node": "16.13.0" },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
