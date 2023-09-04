@@ -2,6 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://michiportfolio-58c46c5c8c2c.herokuapp.com/",
   "homepage": "https://michiportfolio-58c46c5c8c2c.herokuapp.com/",
   "engines": {
     "node": "19.6.0",
