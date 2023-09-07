@@ -9,6 +9,7 @@ function App() {
 
   useEffect(() => {
     getData()
+
   }, [])
 
   const homeRef = useRef(null)
