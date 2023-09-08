@@ -1,5 +1,5 @@
 module.exports = function(app) {
     app.use(
-      createProxyMiddleware(["/api", , "/otherApi"], { target: "http://127.0.0.1:8000" })
+      createProxyMiddleware(["/api", , "/otherApi"], { target: "https://backendport-31dbfb5a9023.herokuapp.com/" })
     );
   };
